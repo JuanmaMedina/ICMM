@@ -143,12 +143,6 @@ cytoband_matcher <- function (d)  {
 
 # carrier_familial_1 <- cytoband_matcher("carrier_familial_1.txt")
 # abortions_2 <- cytoband_matcher("abortions_2.txt")
-# affected_3 <- cytoband_matcher("affected_3.txt")
-# prenatal_carriers_4 <- cytoband_matcher("prenatal_carriers_4.txt")
-# prenatal_affected_5 <- cytoband_matcher("prenatal_affected_5.txt")
-# indication_not_pre_6 <- cytoband_matcher("indication_not_pre_6.txt")
-# indication_not_post_7 <- cytoband_matcher("indication_not_post_7.txt")
-# post_mosaic_8 <- cytoband_matcher("post_mosaic_8.txt")
 
 controls <- cytoband_matcher("juanma_controls.txt")
 affected <- cytoband_matcher("juanma_affected.txt")
