@@ -1,2 +1,2 @@
 # ICMM
-Genomic and chromosomic analysis
+Scripts for genomic and chromosomic analysis
